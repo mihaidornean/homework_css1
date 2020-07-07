@@ -1,0 +1,36 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    width: 520px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+h5 { 
+    display: inline-block;
+    color: rgb(95, 95, 95);
+}
+.navbar  {
+    float:right;
+    padding: 15px;
+}
+nav  {
+    color: rgb(95, 95, 95);
+    float: right;
+    display: inline-block;
+}
+a {
+    color: rgb(95, 95, 95);
+    float: left;
+    padding: 10px;
+    text-decoration: solid;
+}
+hr { 
+    border: 1px solid black;
+    width: 100% ;
+}
+#postedon {
+    font-style: italic;
+    color: rgb(95, 95, 95);
+}
+

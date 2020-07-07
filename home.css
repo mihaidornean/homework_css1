@@ -1,0 +1,9 @@
+.containerDiv {
+    background-image: url("images/home.jpg");
+    width: 1250px;
+    height: 750px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid navy;
+    justify-content: center;
+}

@@ -1,0 +1,9 @@
+.containerDiv {
+    background-image: url("images/archive.jpg");
+    width: 1250px;
+    height: 750px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid rgb(7, 7, 20);
+    justify-content: center;
+}
